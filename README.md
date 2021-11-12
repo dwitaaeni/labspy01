@@ -9,7 +9,7 @@
 #### Output
 ![Gambar2](Screenshot/Sslat01(2).png)
 
-## Latihan 3
+## Latihan 2
 - Program Mengurutkan Data
 
 #### Program
@@ -18,7 +18,7 @@
 #### Output
 ![Gambar4](Screenshot/Sslat02(2).png)
 
-## Latihan 4
+## Latihan 3
 - Program Perulangan Bertingkat
 
 #### Program
@@ -27,7 +27,7 @@
 #### Output
 ![Gambar6](Screenshot/Sslat03(2).png)
 
-## Latihan 5
+## Latihan 4
 - Program Menampilkan n Bilangan acak yang lebih kecil dari 0.5.
 
 #### Program
